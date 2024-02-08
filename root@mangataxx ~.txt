@@ -1,0 +1,29 @@
+  GNU nano 4.8                                         metadata.json                                          Modified
+{
+  "name": "crptoman",
+  "website": "https://github.com/traderaras43/cryptoman/blob/180eb7236ea62996d986ad50afd548d70393ac8c/metadata.json",
+  "description": "nul",
+  "logo": "https://github.com/traderaras43/cryptoman/blob/b79a18131ac22570aa377b439e19742c4fd62ee4/mx.png",
+  "twitter": "https//x.com/bykyamt"
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+^G Get Help    ^O Write Out   ^W Where Is    ^K Cut Text    ^J Justify     ^C Cur Pos     M-U Undo       M-A Mark Text^X Exit        ^R Read File   ^\ Replace     ^U Paste Text  ^T To Spell    ^_ Go To Line  M-E Redo       M-6 Copy Text
